@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Chai Pei Ling! 👋
 
-<!--
-**PeiLing0106/PeiLing0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am just starting out with programming and learning how to use GitHub.
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🌱 I am currently learning the basics of coding and version control.
+- 🎯 My goal is to build exciting projects in the future.
+- 💬 Feel free to share any tips or advice about GitHub with me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools I'm Learning
+- Git & GitHub
+- (Add other programming languages here later, e.g., HTML, Python, etc.)
+
+---
+*“Every expert was once a beginner.”*
