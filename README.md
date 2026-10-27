@@ -1,5 +1,7 @@
 # Hello, I'm Chai Pei Ling! 👋
 
+First Year Data Engineering in UTM
+
 Welcome to my GitHub profile! I am just starting out with programming and learning how to use GitHub.
 
 ### 👩‍💻 About Me
